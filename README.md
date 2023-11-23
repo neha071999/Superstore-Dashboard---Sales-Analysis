@@ -28,4 +28,5 @@ Create visualizations like charts, tables, and graphs to represent your data eff
 
 tool: Microsoft Power BI
 project link: https://lnkd.in/dMiTqanf
+https://www.novypro.com/project/superstore-dashboard---sales-analysis
 
