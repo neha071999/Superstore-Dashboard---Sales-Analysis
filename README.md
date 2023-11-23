@@ -27,6 +27,5 @@ Create visualizations like charts, tables, and graphs to represent your data eff
 - Publish your Power BI dashboard to the Power BI Service or your organization's preferred platform for sharing with users.
 
 tool: Microsoft Power BI
-project link: https://lnkd.in/dMiTqanf
-https://www.novypro.com/project/superstore-dashboard---sales-analysis
+project link: https://www.novypro.com/project/superstore-dashboard---sales-analysis
 
